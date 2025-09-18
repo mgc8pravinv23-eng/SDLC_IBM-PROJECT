@@ -1,12 +1,20 @@
 SmartSDLC-IBM-Project
 SmartSDLC – AI Enhanced Software Development Life Cycle
+
+
 👥 Team leader
+
 PRAVIN RAJA V
+
 
 👥 Team Members
 SAHAYA GOSPER JOSHIN S
+
 NAVEEN NARESH R
+
 TAMIL SELVAM Y
+
+
 📌 Project Overview
 SmartSDLC is an AI-driven approach to enhance the traditional Software Development Life Cycle by automating requirement analysis, health monitoring, and improving efficiency.
 
