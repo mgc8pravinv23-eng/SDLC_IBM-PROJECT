@@ -43,8 +43,8 @@ Health AI Output
 
 
 Demo Video
-Watch our project demo here: Click to Watch
-
+Watch our project demo here: [Click to Watch
+](https://drive.google.com/file/d/1uauHHOoitR6BAJTdWlZ-xQLPABawCCrO/view?usp=drivesdk )
 
 ⚡ How to Run
 Clone the repository:
